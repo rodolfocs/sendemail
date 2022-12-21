@@ -31,5 +31,7 @@ HELP.md
 
 # others
 .idea/
-.mvn/
 target/
+sendemail.iml
+.gitattributes
+sendemail.iml
