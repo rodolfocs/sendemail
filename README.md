@@ -1,5 +1,5 @@
 
-# POC - Microserviço Envio de Email
+# POC - Microserviço Envio de Email - Java, Spring, Mensageria, API
 
 Microserviço para envio de email com armazenamento das mensagens no banco de dados e  envio de forma síncrona e assíncrona por meio de mensageria.
 
